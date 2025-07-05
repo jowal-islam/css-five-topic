@@ -3,10 +3,13 @@ h1 {
 }
 #tomato {
     color: tomato;
+    border: 2px solid tomato;
 }
 #dodgerBlue {
     color: dodgerblue;
+    border: 2px solid dodgerblue;
 }
 #mediumSeaGreen{
     color: mediumseagreen;
+    border: 2px solid mediumseagreen;
 }
