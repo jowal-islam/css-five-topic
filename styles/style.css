@@ -5,9 +5,14 @@
 
 body{
     /* background-color: lightblue; */
+    background-image: url("../images/bg.jpeg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    /* background-size: cover; */
 }
 div{
     background-color: lightblue;
+    opacity: 0.8;
 }
 
 h1 {
