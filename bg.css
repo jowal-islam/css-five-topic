@@ -1,0 +1,13 @@
+
+
+
+h1{
+    color: red;
+}
+body {
+    background-image: url("/images/bg.jpeg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 300px;
+    background-attachment: fixed;
+  }
